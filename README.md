@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👋 Hi, I’m @nogowicz<br>🌱 I’m currently learning React Native<br>👀 I’m interested in creating mobile apps<br>💞️ I’m currently working on Weather app<br>📫 How to reach me? - barteknoga00@gmail.com
 
 
